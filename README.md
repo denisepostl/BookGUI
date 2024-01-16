@@ -1,3 +1,6 @@
+# Book Catalog
+<img src="https://github.com/denisepostl/BookGUI/blob/main/static/screen.png">
+
 # Instructions
 
 ## Transform into JSON
@@ -52,3 +55,6 @@ Check for entries in the books table, for example:
 ```bash
 SELECT * FROM books;
 ```
+
+
+
