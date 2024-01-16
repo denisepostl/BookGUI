@@ -48,7 +48,7 @@ Connect to PostgreSQL:
 psql -U postgres -d postgres
 ```
 
-Use <bold>\dt</bold> to display all tables.
+Use **\dt** to display all tables.
 
 Check for entries in the books table, for example:
 
