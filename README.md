@@ -55,6 +55,8 @@ Check for entries in the books table, for example:
 ```bash
 SELECT * FROM books;
 ```
+<img src="https://github.com/denisepostl/BookGUI/blob/main/static/check.png">
+
 
 
 
