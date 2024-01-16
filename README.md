@@ -22,9 +22,9 @@ This command initiates a PostgreSQL database container in detached mode.
 ## Start the Application
 To launch the application, run the following command. The main application is contained within this script.
 
-``bash
+````bash
 python app.py
-```
+````
 
 ## Verify Database Creation
 
