@@ -7,9 +7,9 @@
 
 In the `transform.py` file, you'll find the code to import data from a CSV file and export its contents into a JSON file.
 
-```bash
+````
 python transform.py
-```
+````
 
 ## Start the Container
 Before running the application, it is essential to start the container for persistently saving data in a PostgreSQL database. Execute the following command to launch the PostgreSQL container:
